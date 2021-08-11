@@ -3,29 +3,42 @@
     {
       "id": "Rap cytaty",
       "sentences": [
-      {"id": 1,
-      "sentence": "Rób swoje i nie patrz się na innych jak ci coś nie wyjdzie to nie szukaj winnych."},
-      {"id": 2,
-      "sentence": "tylko to zostaje mi to po każdej zawleczki nakrętki i kapsle"},
-      {"id": 3,
-      "sentence": "Duchy mierzą mnie swoimi pustymi ślepami patrzymy na siebie wiec długimi minutami"}
+        {
+          "id": 1,
+          "sentence": "Rób swoje i nie patrz się na innych jak ci coś nie wyjdzie to nie szukaj winnych."
+        },
+        {
+          "id": 2,
+          "sentence": "tylko to zostaje mi to po każdej zawleczki nakrętki i kapsle"
+        },
+        {
+          "id": 3,
+          "sentence": "Duchy mierzą mnie swoimi pustymi ślepami patrzymy na siebie wiec długimi minutami"
+        },
+        { "id": 4, "sentence": "Buja się moja wiara, buja się twoja stara." },
+        {
+          "id": 5,
+          "sentence": "Tymczasowe jest nawet twoje zdanie i ten wbity pod skórę igłą atrament"
+        },
+        { "id": 6, "sentence": "Mnie lubią w Galicji, a ciebie w policji." }
       ]
     },
     {
       "id": "Jedzenie",
       "sentences": [
-        {"id": 1, "sentence": "czekolada"},
-        {"id": 2, "sentence": "banany"},
-        {"id": 3, "sentence": "orzechy nerkowca"},
-        {"id": 4, "sentence": "szpinak"},
-        {"id": 5, "sentence": "płatki owsiane"}
+        { "id": 1, "sentence": "czekolada" },
+        { "id": 2, "sentence": "banany" },
+        { "id": 3, "sentence": "orzechy nerkowca" },
+        { "id": 4, "sentence": "szpinak" },
+        { "id": 5, "sentence": "płatki owsiane" },
+        { "id": 5, "sentence": "tort" }
       ]
     },
     {
       "id": "Kawa",
       "sentences": [
-        {"id": 1, "sentence": "z mlekiem"},
-        {"id": 2, "sentence": "bez mleka"}
+        { "id": 1, "sentence": "z mlekiem" },
+        { "id": 2, "sentence": "bez mleka" }
       ]
     }
   ]
